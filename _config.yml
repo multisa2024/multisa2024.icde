@@ -93,9 +93,8 @@ lang: en-GB # Set the site language
 title: "MultiTISA 2024" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "3rd Interdisciplinary Workshop on Multivariate Time Series Analysis (MultiTiSA'24), hosted at ICDE'24 in Utrecht." # Site description and default description, also used in jekyll-seo-tag
-url: "https://multitisa23.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://jdhondt.github.io/multitisa23" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/jdhondt/multitisa23.github.io"
 email: "multitisa@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
