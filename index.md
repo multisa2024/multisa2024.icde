@@ -1,5 +1,5 @@
 ---
-title: 
+title: MultiTISA 2024
 feature_text: |
   ## MultiTISA 2024
   ##### 3rd Interdisciplinary Workshop on Multivariate Time Series Analysis
