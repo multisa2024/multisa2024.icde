@@ -47,7 +47,24 @@ To be announced.
 To be announced.
 
 ## Organizers
-To be announced.
+
+- Odysseas Papapetrou, Eindhoven University of Technology
+- Dimitris Skoutas, Athena Research Center
+- Themis Palpanas, Universite Paris Cite 
 
 ## Program Committee
-To be announced.
+- Paul Boniol, Postdoctoral researcher at Ecole Normale Supérieure (ENS) Paris Saclay, France
+- Jessica Lin, Associate professor at George Mason University, USA 
+- Abdullah Mueen, Associate professor at University of New Mexico, USA
+- Patrick Schäfer, Postdoctoral researcher at the Humboldt University of Berlin
+- Saurabh Agrawal, Senior Machine Learning Engineer at Tubi, San Francisco, USA
+- Germain Forestier, Professor at University of Haute-Alsace, IRIMAS, France
+- Peng Wang, Professor at Fudan University, China
+- Shen Liang, Postdoctoral researcher at Université Paris Cité, France
+- Anthony Bagnall, Professor at University of Southampton,  UK
+- Søren Kejser Jensen, Postdoctoral researcher at Aalborg University, Denmark
+- Michele Linardi, Assistant professor at ETIS lab, France
+- Geoff Webb, Professor at Monash University, Australia
+- Karine Zeitouni, Professor at Université Paris-Saclay, France
+- John Paparrizos, Assistant Professor at Ohio State University, USA
+- Thorsten Papenbrock, Professor at Philipps-Universität Marburg, Germany 
