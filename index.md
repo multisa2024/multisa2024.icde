@@ -1,9 +1,9 @@
 ---
 title: MultiTISA 2024
-feature_text: |
-## MultiTISA 2024
-##### 1st Workshop on Multivariate Time Series Analytics
-in conjunction with ICDE'24 | May 2024, Utrecht, the Netherlands.
+feature_text: | 
+  ## MultiTISA 2024
+  ##### 1st Workshop on Multivariate Time Series Analytics 
+  in conjunction with ICDE'24 | May 2024, Utrecht, the Netherlands.
 feature_image: "https://github.com/JdHondt/multitisa23.github.io/assets/45044727/58ec7cce-896a-4c63-a30e-6f5ac45bd822"
 excerpt: ""
 ---
