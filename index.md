@@ -1,9 +1,9 @@
 ---
 title: MultiTISA 2024
 feature_text: |
-  ## MultiTISA 2024
-  ##### 3rd Interdisciplinary Workshop on Multivariate Time Series Analysis
-  in conjunction with ICDE'24 | March 2024, Utrecht, the Netherlands.
+## MultiTISA 2024
+##### 1st Workshop on Multivariate Time Series Analytics
+in conjunction with ICDE'24 | May 2024, Utrecht, the Netherlands.
 feature_image: "https://github.com/JdHondt/multitisa23.github.io/assets/45044727/58ec7cce-896a-4c63-a30e-6f5ac45bd822"
 excerpt: ""
 ---
@@ -15,27 +15,43 @@ Moreover, existing work is tailored to specific needs.
 Foundational functionalities that have propelled advancements in univariate time series analysis, such as indexing for similarity search and detection of motifs, cannot be trivially extended to the multivariate case. 
 This limitation significantly restricts the efficiency and/or effectiveness of existing efforts for the analysis of multivariate time series, for several analysis tasks. 
 
-This workshop will bring together researchers and practitioners working with multivariate time series, for presenting and discussing requirements, open problems, and related work, and to foster collaborations and further developments in the topic. Industry will participate for presenting problems, requirements, and current approaches, and to reach out to the ICDE community. Researchers will present their novel and ongoing  work on the topic. The full-day workshop will include: 
-(a) 8 paper presentations (short papers and demos up to 4 pages, long papers up to 12 pages), 
+This workshop will bring together researchers and practitioners working with multivariate time series, for presenting and discussing requirements, open problems, and related work, and to foster collaborations and further developments in the topic. Industry will participate for presenting problems, requirements, and current approaches, and to reach out to the ICDE community. Researchers will present their novel and ongoing work on the topic. The full-day workshop will include: 
+(a) 8 paper presentations, 
 (b) four invited talks from industry experts and domain experts, 
 (c) panel discussion, and time for exchanging ideas and for fostering collaborations. The accepted papers and abstracts of the keynote and invited talks will be included in the ICDEW proceedings.
 
+## Topics of interest
+The topics of interest include (but are not limited to):
+- Open challenges in multivariate time series management
+- Similarity search on multivariate time series, and detection of multivariate correlations and similarity measures
+- Online analytical processing for multivariate time series 
+- Streaming and/or distributed analytics on multivariate time series
+- Storing, indexing, and querying multivariate time series
+- Sketching and summarizing multivariate time series
+- Data preparation (data cleaning, noise removal, handling missing values) on multivariate time series
+- Forecasting and anomaly detection for multivariate time series
+- Machine learning and deep learning techniques for multivariate time series
+- Interactive visualization and analytics on (streaming) multivariate time series
+- Handling uncertainty
+- Privacy-preserving analytics on multivariate data
+- Requirements, applications, and query languages for multivariate time series analytics
+
 ## Submission Guidelines
-The workshop will accept both regular papers and short papers (work in progress, vision/outrageous ideas). All submissions must be prepared in accordance with the IEEE template available [here](https://www.ieee.org/conferences/publishing/templates.html). The workshop follows the same rules of Conflicts of Interest (COI) as ICDE 2024. The following are the page limits (excluding references):
+The workshop will accept regular papers (up to 6 pages, excluding references) and short papers describing work in progress, demos, vision/outrageous ideas (up to 4 pages, excluding references). All submissions must be prepared in accordance with the IEEE template available [here](https://www.ieee.org/conferences/publishing/templates.html). The workshop follows the same rules of Conflicts of Interest (COI) as ICDE 2024. The following are the page limits (excluding references):
 
 | **Regular papers:** | 6 pages |
 | **Short papers:** | 4 pages |
 
-All submissions (in PDF format) should be sent to Easychair (Link will be announced).
+All submissions (in PDF format) should be submitted to sent to Microsoft CMT (Link will be announced).
 
 ## Important Dates
-All deadlines are 11:59PM CEST.
+All deadlines are 11:59PM AoE.
 
 | **Submission deadline:** | January 12, 2024 |
 | **Reviews due:** | February 10, 2024 |
 | **Notification of acceptance:** | February 13, 2024 |
 | **Camera-ready deadline:** | February 20, 2024 |
-| **Workshop date:** | March 29, 2024 |
+| **Workshop date:** | May 13, 2024 |
 
 ## Keynotes
 To be announced.
@@ -47,7 +63,6 @@ To be announced.
 To be announced.
 
 ## Organizers
-
 - Odysseas Papapetrou, Eindhoven University of Technology
 - Dimitris Skoutas, Athena Research Center
 - Themis Palpanas, Universite Paris Cite 
@@ -61,10 +76,14 @@ To be announced.
 - Germain Forestier, Professor at University of Haute-Alsace, IRIMAS, France
 - Peng Wang, Professor at Fudan University, China
 - Shen Liang, Postdoctoral researcher at Université Paris Cité, France
-- Anthony Bagnall, Professor at University of Southampton,  UK
+- Anthony Bagnall, Professor at University of Southampton, UK
 - Søren Kejser Jensen, Postdoctoral researcher at Aalborg University, Denmark
 - Michele Linardi, Assistant professor at ETIS lab, France
 - Geoff Webb, Professor at Monash University, Australia
 - Karine Zeitouni, Professor at Université Paris-Saclay, France
 - John Paparrizos, Assistant Professor at Ohio State University, USA
 - Thorsten Papenbrock, Professor at Philipps-Universität Marburg, Germany 
+
+## Web and publicity chairs
+- Jens d'Hondt, Eindhoven University of Technology
+- Wieger Punter, Eindhoven University of Technology
