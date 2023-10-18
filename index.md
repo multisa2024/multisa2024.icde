@@ -53,13 +53,7 @@ All deadlines are 11:59PM AoE.
 | **Camera-ready deadline:** | February 20, 2024 |
 | **Workshop date:** | May 13, 2024 |
 
-## Keynotes
-To be announced.
-
-## Invited Talks
-To be announced.
-
-## Program
+## Keynotes and Program
 To be announced.
 
 ## Organizers
