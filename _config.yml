@@ -93,7 +93,7 @@ lang: en-GB # Set the site language
 title: "MultiTISA 2024" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "3rd Interdisciplinary Workshop on Multivariate Time Series Analysis (MultiTiSA'24), hosted at ICDE'24 in Utrecht." # Site description and default description, also used in jekyll-seo-tag
-url: "https://jdhondt.github.io/multitisa23" # Site url, also used in jekyll-seo-tag
+url: "https://multisa2024.github.io/multisa2024.icde/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 email: "multitisa@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -124,13 +124,13 @@ navigation_header:
 - title: Topics of Interest
   url: /multisa2024.icde/#topics-of-interest
 - title: Submission Guidelines
-  url: /multitisa23/#submission-guidelines
+  url: /multisa2024.icde/#submission-guidelines
 - title: Keynotes
-  url: /multitisa23/#keynotes
+  url: /multisa2024.icde/#keynotes
 - title: Program
-  url: /multitisa23/#program
-- title: Organizers and Program Committee
-  url: /multitisa23/#organizers
+  url: /multisa2024.icde/#program
+- title: Program Committee
+  url: /multisa2024.icde/#organizers
 
 navigation_footer:
 - title: Created by Jens d'Hondt
