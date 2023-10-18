@@ -42,7 +42,7 @@ twitter:
   username: multitisa23 # jekyll-seo-tag > Owners twitter username
 author: Jens d'Hondt # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: MultiTISA 2024 # jekyll-seo-tag > real name
+  name: MulTiSA 2024 # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/multitisa23
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
@@ -118,15 +118,19 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /multitisa23/
+  url: /multisa2024.icde/
 - title: About
-  url: /multitisa23/#about
+  url: /multisa2024.icde/#about
+- title: Topics of Interest
+  url: /multisa2024.icde/#topics-of-interest
 - title: Submission Guidelines
   url: /multitisa23/#submission-guidelines
 - title: Keynotes
   url: /multitisa23/#keynotes
 - title: Program
   url: /multitisa23/#program
+- title: Organizers and Program Committee
+  url: /multitisa23/#organizers
 
 navigation_footer:
 - title: Created by Jens d'Hondt
