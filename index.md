@@ -42,7 +42,7 @@ The workshop will accept regular papers (up to 6 pages, excluding references) an
 | **Regular papers:** | 6 pages |
 | **Short papers:** | 4 pages |
 
-All submissions (in PDF format) should be submitted to sent to Microsoft CMT (Link will be announced).
+All submissions (in PDF format) should be submitted to sent to [Microsoft CMT](https://cmt3.research.microsoft.com/MULTISA2024/).
 
 ## Important Dates
 All deadlines are 11:59PM AoE.
