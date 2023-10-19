@@ -16,15 +16,15 @@ body {
 
 
 // Header, feature and footer
-// .header {
-  // position: fixed;
-// }
-// .header-bar {
-//   position: fixed;
-//   top: 0;
-//   width: 100%;
-//   z-index: 1000;
-// }
+ .header {
+   position: fixed;
+ }
+ .header-bar {
+   position: fixed;
+   top: 0;
+   width: 100%;
+   z-index: 1000;
+ }
 
 .header,
 .footer {
@@ -51,10 +51,6 @@ body {
   align-items: flex-end;
   justify-content: flex-end;
   overflow: hidden;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1000;
 }
 
 .feature {
