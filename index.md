@@ -18,7 +18,9 @@ This limitation significantly restricts the efficiency and/or effectiveness of e
 This workshop will bring together researchers and practitioners working with multivariate time series, for presenting and discussing requirements, open problems, and related work, and to foster collaborations and further developments in the topic. Industry will participate for presenting problems, requirements, and current approaches, and to reach out to the ICDE community. Researchers will present their novel and ongoing work on the topic. The full-day workshop will include: 
 (a) 8 paper presentations, 
 (b) four invited talks from industry experts and domain experts, 
-(c) panel discussion, and time for exchanging ideas and for fostering collaborations. The accepted papers and abstracts of the keynote and invited talks will be included in the ICDEW proceedings.
+(c) panel discussion, and time for exchanging ideas and for fostering collaborations. 
+
+The accepted papers and abstracts of the keynote and invited talks will be included in the ICDEW proceedings.
 
 ## Topics of interest
 The topics of interest include (but are not limited to):
@@ -42,7 +44,7 @@ The workshop will accept regular papers (up to 6 pages, excluding references) an
 | **Regular papers:** | 6 pages |
 | **Short papers:** | 4 pages |
 
-All submissions (in PDF format) should be submitted to sent to [Microsoft CMT](https://cmt3.research.microsoft.com/MULTISA2024/).
+All submissions (in PDF format) should be submitted to [Microsoft CMT](https://cmt3.research.microsoft.com/MULTISA2024/).
 
 ## Important Dates
 All deadlines are 11:59PM AoE.
@@ -57,9 +59,9 @@ All deadlines are 11:59PM AoE.
 To be announced.
 
 ## Organizers
+- Themis Palpanas, Universite Paris Cite 
 - Odysseas Papapetrou, Eindhoven University of Technology
 - Dimitris Skoutas, Athena Research Center
-- Themis Palpanas, Universite Paris Cite 
 
 ## Program Committee
 - Paul Boniol, Postdoctoral researcher at Ecole Normale Supérieure (ENS) Paris Saclay, France
