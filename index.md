@@ -41,7 +41,7 @@ The topics of interest include (but are not limited to):
 ## Submission Guidelines
 The workshop will accept regular papers (up to 6 pages, excluding references) and short papers describing work in progress, demos, vision/outrageous ideas (up to 4 pages, excluding references). All submissions must be prepared in accordance with the IEEE template available [here](https://www.ieee.org/conferences/publishing/templates.html). The workshop follows the same rules of Conflicts of Interest (COI) as ICDE 2024. The following are the page limits (excluding references):
 
-| **Regular papers:** | 6 pages |
+| **Regular papers:** | 8 pages |
 | **Short papers:** | 4 pages |
 
 All submissions (in PDF format) should be submitted to [Microsoft CMT](https://cmt3.research.microsoft.com/MULTISA2024/).
