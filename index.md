@@ -20,7 +20,7 @@ This workshop will bring together researchers and practitioners working with mul
 (b) four invited talks from industry experts and domain experts, 
 (c) panel discussion, and time for exchanging ideas and for fostering collaborations. 
 
-The accepted papers and abstracts of the keynote and invited talks will be included in the ICDEW proceedings.
+The proceedings of the workshop will be included in the ICDE Workshops proceedings, which will be published alongside with the conference proceedings.
 
 ## Topics of interest
 The topics of interest include (but are not limited to):
@@ -51,7 +51,7 @@ All deadlines are 11:59PM AoE.
 
 | **Submission deadline:** | January 26, 2024 |
 | **Reviews due:** | February 26, 2024 |
-| **Notification of acceptance:** | February 29, 2024 |
+| **Notification of acceptance:** | March 1, 2024 |
 | **Camera-ready deadline:** | March 8, 2024 |
 | **Workshop date:** | May 13, 2024 |
 
