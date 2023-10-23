@@ -20,7 +20,7 @@ This workshop will bring together researchers and practitioners working with mul
 (b) four invited talks from industry experts and domain experts, 
 (c) panel discussion, and time for exchanging ideas and for fostering collaborations. 
 
-The proceedings of the workshop will be included in the ICDE Workshops proceedings, which will be published alongside with the conference proceedings.
+The proceedings of the workshop will be published alongside with the conference proceedings.
 
 ## Topics of interest
 The topics of interest include (but are not limited to):
