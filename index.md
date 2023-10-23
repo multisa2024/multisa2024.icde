@@ -49,10 +49,10 @@ All submissions (in PDF format) should be submitted to [Microsoft CMT](https://c
 ## Important Dates
 All deadlines are 11:59PM AoE.
 
-| **Submission deadline:** | January 12, 2024 |
-| **Reviews due:** | February 10, 2024 |
-| **Notification of acceptance:** | February 13, 2024 |
-| **Camera-ready deadline:** | February 20, 2024 |
+| **Submission deadline:** | January 26, 2024 |
+| **Reviews due:** | February 26, 2024 |
+| **Notification of acceptance:** | February 29, 2024 |
+| **Camera-ready deadline:** | March 8, 2024 |
 | **Workshop date:** | May 13, 2024 |
 
 ## Keynotes and Program
