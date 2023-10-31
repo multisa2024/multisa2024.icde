@@ -118,17 +118,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /multisa2024.icde/
+  url: /
 - title: About
-  url: /multisa2024.icde/#about
+  url: /#about
 - title: Topics of Interest
-  url: /multisa2024.icde/#topics-of-interest
+  url: /#topics-of-interest
 - title: Submission Guidelines
-  url: /multisa2024.icde/#submission-guidelines
+  url: /#submission-guidelines
 - title: Program
-  url: /multisa2024.icde/#keynotes-and-program
+  url: /#keynotes-and-program
 - title: Program Committee
-  url: /multisa2024.icde/#organizers
+  url: /#organizers
 
 navigation_footer:
 - title: Created by Jens d'Hondt
