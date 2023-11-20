@@ -39,7 +39,7 @@ The topics of interest include (but are not limited to):
 - Requirements, applications, and query languages for multivariate time series analytics
 
 ## Submission Guidelines
-The workshop will accept regular papers (up to 6 pages, excluding references) and short papers describing work in progress, demos, vision/outrageous ideas (up to 4 pages, excluding references). All submissions must be prepared in accordance with the IEEE template available [here](https://www.ieee.org/conferences/publishing/templates.html). The workshop follows the same rules of Conflicts of Interest (COI) as ICDE 2024. The following are the page limits (excluding references):
+The workshop will accept regular papers (up to 8 pages, excluding references) and short papers describing work in progress, demos, vision/outrageous ideas (up to 4 pages, excluding references). All submissions must be prepared in accordance with the IEEE template available [here](https://www.ieee.org/conferences/publishing/templates.html). The workshop follows the same rules of Conflicts of Interest (COI) as ICDE 2024. The following are the page limits (excluding references):
 
 | **Regular papers:** | 8 pages |
 | **Short papers:** | 4 pages |
