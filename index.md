@@ -82,4 +82,3 @@ To be announced.
 
 ## Web and publicity chairs
 - Jens d'Hondt, Eindhoven University of Technology
-- Wieger Punter, Eindhoven University of Technology
