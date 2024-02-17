@@ -74,10 +74,15 @@ To be announced.
 - Anthony Bagnall, Professor at University of Southampton, UK
 - Søren Kejser Jensen, Postdoctoral researcher at Aalborg University, Denmark
 - Michele Linardi, Assistant professor at ETIS lab, France
-- Geoff Webb, Professor at Monash University, Australia
 - Karine Zeitouni, Professor at Université Paris-Saclay, France
 - John Paparrizos, Assistant Professor at Ohio State University, USA
-- Thorsten Papenbrock, Professor at Philipps-Universität Marburg, Germany 
+- Thorsten Papenbrock, Professor at Philipps-Universität Marburg, Germany
+- Qitong	Wang, Université Paris Cité
+- Tristan	Allard,	Associate professor at	Univ Rennes, CNRS, IRISA
+- Johann Gamper, Professor at	Free University of Bozen-Bolzano
+- Rodica	Neamtu, Professor at	Worcester Polytechnic Institute
+- Georgios	Chatzigeorgakidis, Postdoctoral researcher at Athena Research Center
+- Giorgos	Giannopoulos, Postdoctoral researcher at Athena Research Center
 
-## Web and publicity chairs
+## Web and publicity chair
 - Jens d'Hondt, Eindhoven University of Technology
