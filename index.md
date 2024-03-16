@@ -58,10 +58,7 @@ All deadlines are 11:59PM AoE.
 To be announced.
 
 ## Accepted papers
-| **Submission deadline:** | February 15, 2024 |
-| **Notifications:** | March 15, 2024 |
-| **Camera-ready deadline:** | March 22, 2024 |
-| **Workshop date:** | May 13, 2024 |
+To be announced
 
 ## Programme
 To be announced
