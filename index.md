@@ -58,9 +58,8 @@ All deadlines are 11:59PM AoE.
 To be announced.
 
 ## Accepted papers
-----
-| Paper Id | Title | Authors |
----
+
+| Paper id | Title | Authors |
 | 4 | Subset Models for Multivariate Time Series Forecast | Raphael F Saldanha (Inria)*; Victor Ribeiro (LNCC); Eduardo Pena (UTFPR); Marcel Pedroso (Fiocruz); Reza Akbarinia (INRIA); Patrick Valduriez (INRIA); Fabio Porto (LNCC) |
 
 | 5 | Data-Hungry Fault Detection Algorithms Can Try Transfer Learning for Starters | Jurgen van den Hoogen (Osnabrück University)*; Dan Hudson (Osnabrück University); Martin Atzmueller (Osnabrück University & DFKI) |
