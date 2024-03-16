@@ -58,19 +58,22 @@ All deadlines are 11:59PM AoE.
 To be announced.
 
 ## Accepted papers
-|4|Subset Models for Multivariate Time Series Forecast|Raphael F Saldanha (Inria)*; Victor Ribeiro (LNCC); Eduardo Pena (UTFPR); Marcel Pedroso (Fiocruz); Reza Akbarinia (INRIA); Patrick Valduriez (INRIA); Fabio Porto (LNCC)|
-|5|Data-Hungry Fault Detection Algorithms Can Try Transfer Learning for Starters|Jurgen van den Hoogen (Osnabrück University)*; Dan Hudson (Osnabrück University); Martin Atzmueller (Osnabrück University & DFKI)|
-|6|Anomaly Detectors for Multivariate Time Series: The Proof of the Pudding is in the Eating|Phillip Wenig (Hasso Plattner Institute, University of Potsdam)*; Sebastian Schmidl (Hasso Plattner Institute, University of Potsdam); Thorsten Papenbrock (Philipps University of Marburg)|
-|7|Parameter-free Streaming Distance-based Outlier Detection|Apostolos Giannoulidis (Aristotle University of Thessaloniki)*; Nikodimos Nikolaidis (Atlantis Engineering); Anastasios Gounaris (Aristotle University of Thessaloniki)|
-|9|Beyond the Dimensions: A Structured Evaluation of Multivariate Time Series Distance Measures|Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University)|
-|10|Time Series Problems in the Energy Sector|Christos Dalamagkas (Public Power Corporation); Angelos Georgakis (Public Power Corporation); Kostas Hrissagis-Chrysagis (Public Power Corporation); George Papadakis (University of Athens)*|
-|13|MultiCast: Zero-Shot Multidimensional Time Series Forecasting Using LLMs|Georgios Chatzigeorgakidis (Athena Research Center)*; Konstantinos Lentzos (Athena Research Center); Dimitrios Skoutas (Athena Research Center)|
-|14|Data Augmentation for Multivariate Time Series Classification: An Experimental Study|Romain Ilbert (Huawei Paris Research Center)*; Thai V. Hoang (TH Consulting); Zonghua Zhang (CRSC)|
-|16|Challenges in Modeling Drug Shortage Events in the Pharmaceutical Domain|Laura-Maria Tolosi-Halacheva (Teva Pharmaceuticals)*; Eran Nevo (Teva Pharmaceuticals); Radoslav Andreev (Teva Pharmaceuticals); Oleg Shcherbakov (Teva Pharmaceuticals)|
-|18|Extended Framework and Evaluation for Multivariate Streaming Anomaly Detection with Machine Learning|Andreas Koch (Technical University of Munich)*; Michael Petry (Airbus Defence and Space / Technical University of Munich); Martin Werner (TU München)|
-|19|Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing|Max Pernklau (FernUniversität in Hagen)*; Christian Beecks (FernUniversität in Hagen)|
-|20|Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting|Mandani Ntekouli (Maastricht University)*; Gerasimos Spanakis (Maastricht University); Lourens Waldorp (University of Amsterdam); Anne Roefs (Maastricht University)|
-|21|Linear-trend normalization for multivariate subsequence similarity search|Thibaut Germain (ENS Paris Saclay)*; Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris-Saclay)|
+| 4 | Subset Models for Multivariate Time Series Forecast | Raphael F Saldanha (Inria)*; Victor Ribeiro (LNCC); Eduardo Pena (UTFPR); Marcel Pedroso (Fiocruz); Reza Akbarinia (INRIA); Patrick Valduriez (INRIA); Fabio Porto (LNCC) | 
+| 5 | Data-Hungry Fault Detection Algorithms Can Try Transfer Learning for Starters | Jurgen van den Hoogen (Osnabrück University)*; Dan Hudson (Osnabrück University); Martin Atzmueller (Osnabrück University & DFKI) | 
+| 6 | Anomaly Detectors for Multivariate Time Series: The Proof of the Pudding is in the Eating | Phillip Wenig (Hasso Plattner Institute, University of Potsdam)*; Sebastian Schmidl (Hasso Plattner Institute, University of Potsdam); Thorsten Papenbrock (Philipps University of Marburg) | 
+| 7 | Parameter-free Streaming Distance-based Outlier Detection | Apostolos Giannoulidis (Aristotle University of Thessaloniki)*; Nikodimos Nikolaidis (Atlantis Engineering); Anastasios Gounaris (Aristotle University of Thessaloniki) | 
+| 9 | Beyond the Dimensions: A Structured Evaluation of Multivariate Time Series Distance Measures | Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University) | 
+| 10 | Time Series Problems in the Energy Sector | Christos Dalamagkas (Public Power Corporation); Angelos Georgakis (Public Power Corporation); Kostas Hrissagis-Chrysagis (Public Power Corporation); George Papadakis (University of Athens)* | 
+| 13 | MultiCast: Zero-Shot Multidimensional Time Series Forecasting Using LLMs | Georgios Chatzigeorgakidis (Athena Research Center)*; Konstantinos Lentzos (Athena Research Center); Dimitrios Skoutas (Athena Research Center) | 
+| 14 | Data Augmentation for Multivariate Time Series Classification: An Experimental Study | Romain Ilbert (Huawei Paris Research Center)*; Thai V. Hoang (TH Consulting); Zonghua Zhang (CRSC) | 
+| 16 | Challenges in Modeling Drug Shortage Events in the Pharmaceutical Domain | Laura-Maria Tolosi-Halacheva (Teva Pharmaceuticals)*; Eran Nevo (Teva Pharmaceuticals); Radoslav Andreev (Teva Pharmaceuticals); Oleg Shcherbakov (Teva Pharmaceuticals) | 
+| 18 | Extended Framework and Evaluation for Multivariate Streaming Anomaly Detection with Machine Learning | Andreas Koch (Technical University of Munich)*; Michael Petry (Airbus Defence and Space / Technical University of Munich); Martin Werner (TU München) | 
+| 19 | Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing | Max Pernklau (FernUniversität in Hagen)*; Christian Beecks (FernUniversität in Hagen) | 
+| 20 | Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting | Mandani Ntekouli (Maastricht University)*; Gerasimos Spanakis (Maastricht University); Lourens Waldorp (University of Amsterdam); Anne Roefs (Maastricht University) | 
+| 21 | Linear-trend normalization for multivariate subsequence similarity search | Thibaut Germain (ENS Paris Saclay)*; Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris-Saclay) | 
+
+
+
 
 ## Programme
 To be announced
