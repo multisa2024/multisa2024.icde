@@ -58,7 +58,123 @@ All deadlines are 11:59PM AoE.
 To be announced.
 
 ## Accepted papers
-| Paper ID | Paper Title |  Authors |
+
+<style>
+.table_component {
+    overflow: auto;
+    width: 100%;
+}
+
+.table_component table {
+    border: 1px solid #dededf;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: left;
+}
+
+.table_component caption {
+    caption-side: top;
+    text-align: left;
+}
+
+.table_component th {
+    border: 1px solid #dededf;
+    background-color: #eceff1;
+    color: #000000;
+    padding: 5px;
+}
+
+.table_component td {
+    border: 1px solid #dededf;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px;
+}
+</style>
+<div class="table_component" role="region" tabindex="0">
+<table>
+    <thead>
+        <tr>
+            <th>Paper ID</th>
+            <th>Paper Title</th>
+            <th>Authors</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>4</td>
+            <td>Subset Models for Multivariate Time Series Forecast</td>
+            <td>Raphael F Saldanha (Inria)*; Victor Ribeiro (LNCC); Eduardo Pena (UTFPR); Marcel Pedroso (Fiocruz); Reza Akbarinia (INRIA); Patrick Valduriez (INRIA); Fabio Porto (LNCC)</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Data-Hungry Fault Detection Algorithms Can Try Transfer Learning for Starters</td>
+            <td>Jurgen van den Hoogen (Osnabrück University)*; Dan Hudson (Osnabrück University); Martin Atzmueller (Osnabrück University &amp; DFKI)</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Anomaly Detectors for Multivariate Time Series: The Proof of the Pudding is in the Eating</td>
+            <td>Phillip Wenig (Hasso Plattner Institute, University of Potsdam)*; Sebastian Schmidl (Hasso Plattner Institute, University of Potsdam); Thorsten Papenbrock (Philipps University of Marburg)</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Parameter-free Streaming Distance-based Outlier Detection</td>
+            <td>Apostolos Giannoulidis (Aristotle University of Thessaloniki)*; Nikodimos Nikolaidis (Atlantis Engineering); Anastasios Gounaris (Aristotle University of Thessaloniki)</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Beyond the Dimensions: A Structured Evaluation of Multivariate Time Series Distance Measures</td>
+            <td>Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University)</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Time Series Problems in the Energy Sector</td>
+            <td>Christos Dalamagkas (Public Power Corporation); Angelos Georgakis (Public Power Corporation); Kostas Hrissagis-Chrysagis (Public Power Corporation); George Papadakis (University of Athens)*</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>MultiCast: Zero-Shot Multidimensional Time Series Forecasting Using LLMs</td>
+            <td>Georgios Chatzigeorgakidis (Athena Research Center)*; Konstantinos Lentzos (Athena Research Center); Dimitrios Skoutas (Athena Research Center)</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Data Augmentation for Multivariate Time Series Classification: An Experimental Study</td>
+            <td>Romain Ilbert (Huawei Paris Research Center)*; Thai V. Hoang (TH Consulting); Zonghua Zhang (CRSC)</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Challenges in Modeling Drug Shortage Events in the Pharmaceutical Domain</td>
+            <td>Laura-Maria Tolosi-Halacheva (Teva Pharmaceuticals)*; Eran Nevo (Teva Pharmaceuticals); Radoslav Andreev (Teva Pharmaceuticals); Oleg Shcherbakov (Teva Pharmaceuticals)</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Extended Framework and Evaluation for Multivariate Streaming Anomaly Detection with Machine Learning</td>
+            <td>Andreas Koch (Technical University of Munich)*; Michael Petry (Airbus Defence and Space / Technical University of Munich); Martin Werner (TU München)</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing</td>
+            <td>Max Pernklau (FernUniversität in Hagen)*; Christian Beecks (FernUniversität in Hagen)</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting</td>
+            <td>Mandani Ntekouli (Maastricht University)*; Gerasimos Spanakis (Maastricht University); Lourens Waldorp (University of Amsterdam); Anne Roefs (Maastricht University)</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Linear-trend normalization for multivariate subsequence similarity search</td>
+            <td>Thibaut Germain (ENS Paris Saclay)*; Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris Saclay)</td>
+        </tr>
+        <tr></tr>
+    </tbody>
+</table>
+</div>
+
+<!-- | ID | Paper Title |  Authors |
 | --- | --- | --- |
 | 4 | Subset Models for Multivariate Time Series Forecast | Raphael F Saldanha (Inria); Victor Ribeiro (LNCC); Eduardo Pena (UTFPR); Marcel Pedroso (Fiocruz); Reza Akbarinia (INRIA); Patrick Valduriez (INRIA); Fabio Porto (LNCC) | 
 | 5 | Data-Hungry Fault Detection Algorithms Can Try Transfer Learning for Starters | Jurgen van den Hoogen (Osnabrück University); Dan Hudson (Osnabrück University); Martin Atzmueller (Osnabrück University & DFKI) | 
@@ -72,7 +188,7 @@ To be announced.
 | 18 | Extended Framework and Evaluation for Multivariate Streaming Anomaly Detection with Machine Learning | Andreas Koch (Technical University of Munich); Michael Petry (Airbus Defence and Space / Technical University of Munich); Martin Werner (TU München) | 
 | 19 | Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing | Max Pernklau (FernUniversität in Hagen); Christian Beecks (FernUniversität in Hagen) | 
 | 20 | Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting | Mandani Ntekouli (Maastricht University); Gerasimos Spanakis (Maastricht University); Lourens Waldorp (University of Amsterdam); Anne Roefs (Maastricht University) | 
-| 21 | Linear-trend normalization for multivariate subsequence similarity search | Thibaut Germain (ENS Paris Saclay); Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris-Saclay) | 
+| 21 | Linear-trend normalization for multivariate subsequence similarity search | Thibaut Germain (ENS Paris Saclay); Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris-Saclay) | -->
 
 ## Programme
 To be announced
