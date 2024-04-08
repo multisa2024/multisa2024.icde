@@ -126,9 +126,11 @@ navigation_header:
 - title: Submission Guidelines
   url: /#submission-guidelines
 - title: Program
-  url: /#keynotes-and-program
+  url: /#program
+- title: Keynotes
+  url: /#keynote-talks
 - title: Program Committee
-  url: /#organizers
+  url: /#program-committee
 
 navigation_footer:
 - title: Created by Jens d'Hondt
