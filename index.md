@@ -138,13 +138,13 @@ All deadlines are 11:59PM AoE.
 - [Linear-trend normalization for multivariate subsequence similarity search](#program) (15 min) \
     Thibaut Germain (ENS Paris Saclay)*; Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris Saclay)
 - [Beyond the Dimensions: A Structured Evaluation of Multivariate Time Series Distance Measures](#program) (10 min) \
-    Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University) \
+    Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University)
 - [Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing](#program) (10 min) \
     Max Pernklau (FernUniversität in Hagen)*; Christian Beecks (FernUniversität in Hagen)
 **15:00 - 15:30 Coffee Break**
 
 **15:30 - 16:30 Keynote Talk 2:** [Multivariate time series in healthcare: challenges and open questions](#keynote-2-multivariate-time-series-in-healthcare-challenges-and-open-questions) \
-  Laurent Oudre, Centre Borelli, ENS Paris Saclay \
+  Laurent Oudre, Centre Borelli, ENS Paris Saclay 
 
 **16:30 - 17:30 Panel Discussion**\
 Panelists: Ammar Mechouche, Adil Soubki, Laurent Oudre, and John Paparrizos
@@ -194,123 +194,6 @@ Previously, Ammar has been awarded a Ph.D. from the University of Rennes 1 in 20
 **Abstract:** Most sensors currently used in healthcare (EEG, 3D motion analysis, accelerometry, ECG...) produce multivariate time series. The different dimensions of these time series are often highly correlated and structured, and prior knowledge of the structure can help to improve the way these signals are handled and processed. In this talk we will discuss some strategies to exploit this additional information for various tasks such as change point detection or filtering, with applications to gait analysis and EEG data. The talk will also provide an introductory overview of the promising framework of Graph Signal Processing (GSP), along with a discussion of the main remaining challenges and open questions in this area.
 
 **Bio:** Laurent Oudre is a full professor at the Centre Borelli of the Ecole Normale Supérieure Paris-Saclay (France). He leads a team of more than ten young researchers and has been working for about fifteen years on signal processing, pattern recognition and machine learning for time series. His work covers a wide range of topics: event detection (including change-point, pattern and anomaly detection), feature extraction, unsupervised or semi-supervised approaches, representation learning and graph signal processing. His scientific projects are mainly focused on AI applications in health and industry, often with a strong interdisciplinary component. He is also involved in initiatives around reproducible research and acculturation to AI (especially for the medical community). He is the author of more than 70 patents and articles in international peer-reviewed journals and conferences. He is also the director of the MVA (Mathematics, Vision and Learning) master's degree at the ENS Paris-Saclay, considered one of the best master's degrees in AI in Europe.
-
-
-<!-- ## Accepted papers
-<style>
-.table_component {
-    overflow: auto;
-    width: 100%;
-}
-
-.table_component table {
-    border: 1px solid #dededf;
-    height: 100%;
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-    border-spacing: 1px;
-    text-align: left;
-}
-
-.table_component caption {
-    caption-side: top;
-    text-align: left;
-}
-
-.table_component th {
-    border: 1px solid #dededf;
-    background-color: #eceff1;
-    color: #000000;
-    padding: 5px;
-}
-
-.table_component td {
-    border: 1px solid #dededf;
-    background-color: #ffffff;
-    color: #000000;
-    padding: 5px;
-}
-</style>
-<div class="table_component" role="region" tabindex="0">
-<table>
-    <thead>
-        <tr>
-            <th>Paper ID</th>
-            <th>Paper Title</th>
-            <th>Authors</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>4</td>
-            <td>Subset Models for Multivariate Time Series Forecast</td>
-            <td>Raphael F Saldanha (Inria)*; Victor Ribeiro (LNCC); Eduardo Pena (UTFPR); Marcel Pedroso (Fiocruz); Reza Akbarinia (INRIA); Patrick Valduriez (INRIA); Fabio Porto (LNCC)</td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td>Data-Hungry Fault Detection Algorithms Can Try Transfer Learning for Starters</td>
-            <td>Jurgen van den Hoogen (Osnabrück University)*; Dan Hudson (Osnabrück University); Martin Atzmueller (Osnabrück University &amp; DFKI)</td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td>Anomaly Detectors for Multivariate Time Series: The Proof of the Pudding is in the Eating</td>
-            <td>Phillip Wenig (Hasso Plattner Institute, University of Potsdam)*; Sebastian Schmidl (Hasso Plattner Institute, University of Potsdam); Thorsten Papenbrock (Philipps University of Marburg)</td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td>Parameter-free Streaming Distance-based Outlier Detection</td>
-            <td>Apostolos Giannoulidis (Aristotle University of Thessaloniki)*; Nikodimos Nikolaidis (Atlantis Engineering); Anastasios Gounaris (Aristotle University of Thessaloniki)</td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td>Beyond the Dimensions: A Structured Evaluation of Multivariate Time Series Distance Measures</td>
-            <td>Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University)</td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td>Time Series Problems in the Energy Sector</td>
-            <td>Christos Dalamagkas (Public Power Corporation); Angelos Georgakis (Public Power Corporation); Kostas Hrissagis-Chrysagis (Public Power Corporation); George Papadakis (University of Athens)*</td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td>MultiCast: Zero-Shot Multidimensional Time Series Forecasting Using LLMs</td>
-            <td>Georgios Chatzigeorgakidis (Athena Research Center)*; Konstantinos Lentzos (Athena Research Center); Dimitrios Skoutas (Athena Research Center)</td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td>Data Augmentation for Multivariate Time Series Classification: An Experimental Study</td>
-            <td>Romain Ilbert (Huawei Paris Research Center)*; Thai V. Hoang (TH Consulting); Zonghua Zhang (CRSC)</td>
-        </tr>
-        <tr>
-            <td>16</td>
-            <td>Challenges in Modeling Drug Shortage Events in the Pharmaceutical Domain</td>
-            <td>Laura-Maria Tolosi-Halacheva (Teva Pharmaceuticals)*; Eran Nevo (Teva Pharmaceuticals); Radoslav Andreev (Teva Pharmaceuticals); Oleg Shcherbakov (Teva Pharmaceuticals)</td>
-        </tr>
-        <tr>
-            <td>18</td>
-            <td>Extended Framework and Evaluation for Multivariate Streaming Anomaly Detection with Machine Learning</td>
-            <td>Andreas Koch (Technical University of Munich)*; Michael Petry (Airbus Defence and Space / Technical University of Munich); Martin Werner (TU München)</td>
-        </tr>
-        <tr>
-            <td>19</td>
-            <td>Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing</td>
-            <td>Max Pernklau (FernUniversität in Hagen)*; Christian Beecks (FernUniversität in Hagen)</td>
-        </tr>
-        <tr>
-            <td>20</td>
-            <td>Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting</td>
-            <td>Mandani Ntekouli (Maastricht University)*; Gerasimos Spanakis (Maastricht University); Lourens Waldorp (University of Amsterdam); Anne Roefs (Maastricht University)</td>
-        </tr>
-        <tr>
-            <td>21</td>
-            <td>Linear-trend normalization for multivariate subsequence similarity search</td>
-            <td>Thibaut Germain (ENS Paris Saclay)*; Charles Truong (ENS Paris Saclay); Laurent Oudre (ENS Paris Saclay)</td>
-        </tr>
-        <tr></tr>
-    </tbody>
-</table>
-</div> -->
 
 <!-- Back to top button -->
 <div class="go-to-top">
