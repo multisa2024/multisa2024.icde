@@ -103,12 +103,12 @@ All deadlines are 11:59PM AoE.
 ---
 
 ## Program
-**9:00 - 9:05 Welcome Message** 
+**9:00 Welcome Message** 
 
-**9:05 - 10:05 Keynote Talk 1:** [Multivariate Time-Series in Airbus](#keynote-1-multivariate-time-series-in-airbus) \
+**9:05 - 9:50 Keynote Talk 1:** [Multivariate Time-Series in Airbus](#keynote-1-multivariate-time-series-in-airbus) \
   Ammar Mechouche (Airbus Helicopters), Adil Soubki (Airbus Commercial)
 
-**10:05 - 10:30 Coffee Break**
+**9:50 - 10:30 Coffee Break**
 
 **10:30 - 12:00 Research Session 1**
 - [Parameter-free Streaming Distance-based Outlier Detection](#program) (10 min) \
@@ -141,12 +141,13 @@ All deadlines are 11:59PM AoE.
     Jens d'Hondt (Eindhoven University of Technology)*; Odysseas Papapetrou (TU Eindhoven); John Paparrizos (The Ohio State University)
 - [Towards Ptolemaic metric properties of the z-normalized Euclidean distance for multivariate time series indexing](#program) (10 min) \
     Max Pernklau (FernUniversität in Hagen)*; Christian Beecks (FernUniversität in Hagen)
+  
 **15:00 - 15:30 Coffee Break**
 
-**15:30 - 16:30 Keynote Talk 2:** [Multivariate time series in healthcare: challenges and open questions](#keynote-2-multivariate-time-series-in-healthcare-challenges-and-open-questions) \
+**15:30 - 16:15 Keynote Talk 2:** [Multivariate time series in healthcare: challenges and open questions](#keynote-2-multivariate-time-series-in-healthcare-challenges-and-open-questions) \
   Laurent Oudre, Centre Borelli, ENS Paris Saclay 
 
-**16:30 - 17:30 Panel Discussion**\
+**16:15 - 17:30 Panel Discussion**\
 Panelists: Ammar Mechouche, Adil Soubki, Laurent Oudre, and John Paparrizos
 
 <!-- Back to top button -->
