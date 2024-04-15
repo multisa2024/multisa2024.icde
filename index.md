@@ -156,45 +156,65 @@ Panelists: Ammar Mechouche, Adil Soubki, Laurent Oudre, and John Paparrizos
 </div>
 ---
 
-## Keynote Talks
-##### Keynote 1: Multivariate Time-Series in Airbus
-
-
+## Panelists
 <div class="profile-card">
-<img src="https://github.com/multisa2024/multisa2024.icde/assets/45044727/48954c29-aaa8-46d8-ada3-75bdfeb04808" alt="Airbus 1">
+<img src="https://github.com/multisa2024/multisa2024.icde/assets/45044727/48954c29-aaa8-46d8-ada3-75bdfeb04808" alt="Ammar">
 <div class="profile-info">
     <h4>Ammar Mechouche</h4>
     <p>Airbus Helicopters</p>
 </div>
 </div>
+
+**Bio:** Ammar Mechouche is a Big Data & Advanced Analytics expert at Airbus Helicopters (AH). He joined Airbus in 2013 as a research engineer. He first developed a big data solution which enables the processing of the big amounts of time series data collected from helicopters flying worldwide. He has been since contributing to the development of the helicopter data analytics topic in order to generate business value for AH and its customers.
+Previously, Ammar has been awarded a Ph.D. from the University of Rennes 1 in 2009. He worked on the development of an ontology-based system for brain MRI image annotation. Before joining Airbus, he has been working as 1) post-doc on data integration at the research department of the French Mapping Agency (IGN); 2) research assistant at the LIS Lab of Aix-Marseille University; and 3) software engineer at Thales. Ammar is co-author of more than 20 papers published in peer reviewed conferences / journals; mainly in the computer science / helicopter domains.
+
 <div class="profile-card">
-<img src="https://github.com/multisa2024/multisa2024.icde/assets/45044727/7d2c062f-3157-4b2a-b60c-897abafb6500" alt="Airbus 2">
+<img src="https://github.com/multisa2024/multisa2024.icde/assets/45044727/7d2c062f-3157-4b2a-b60c-897abafb6500" alt="Adil">
 <div class="profile-info">
     <h4>Adil Soubki</h4>
     <p>Airbus Commercial</p>
 </div>
 </div>
 
-**Abstract:** This presentation is about Airbus time series coming from testing aircrafts and operating helicopters. First, the collection and management of these data are briefly described. Then, it is shown how these time series data are organized and stored in order for their processing to be performant. After that, some Airbus made tools, dedicated to time series analysis, are presented. Finally, a focus is made on problems / challenges emerging from the analysis of these multivariate data series, encountered in the framework of predictive maintenance and automatic events detection in testing data.
-
-**Bio 1:** Ammar Mechouche is a Big Data & Advanced Analytics expert at Airbus Helicopters (AH). He joined Airbus in 2013 as a research engineer. He first developed a big data solution which enables the processing of the big amounts of time series data collected from helicopters flying worldwide. He has been since contributing to the development of the helicopter data analytics topic in order to generate business value for AH and its customers.
-Previously, Ammar has been awarded a Ph.D. from the University of Rennes 1 in 2009. He worked on the development of an ontology-based system for brain MRI image annotation. Before joining Airbus, he has been working as 1) post-doc on data integration at the research department of the French Mapping Agency (IGN); 2) research assistant at the LIS Lab of Aix-Marseille University; and 3) software engineer at Thales. Ammar is co-author of more than 20 papers published in peer reviewed conferences / journals; mainly in the computer science / helicopter domains.
-
-**Bio 2:** Adil Soubki is a Time Series analytics expert at Airbus Commercial (AIC). He joined Airbus in 2009 as a software engineer, and now, he is working as a Data scientist / Data architect for a time series solution hosting data collected from test & development aircrafts. He contributes to enhancing the usage of IA and data analytics within the test center activity. Graduated from INSA Toulouse in automatic and computer science in 2004, Adil started working as a software engineer at NEXEYA developing test benches.
-
-##### Keynote 2: Multivariate time series in healthcare: challenges and open questions
+**Bio:** Adil Soubki is a Time Series analytics expert at Airbus Commercial (AIC). He joined Airbus in 2009 as a software engineer, and now, he is working as a Data scientist / Data architect for a time series solution hosting data collected from test & development aircrafts. He contributes to enhancing the usage of IA and data analytics within the test center activity. Graduated from INSA Toulouse in automatic and computer science in 2004, Adil started working as a software engineer at NEXEYA developing test benches.
 
 <div class="profile-card">
-<img src="https://github.com/multisa2024/multisa2024.icde/assets/45044727/4b41cc63-0a4f-4307-9952-8240c2ac04da" alt="LaurentAirbus 1">
+<img src="https://github.com/multisa2024/multisa2024.icde/assets/45044727/4b41cc63-0a4f-4307-9952-8240c2ac04da" alt="Laurent">
 <div class="profile-info">
     <h4>Laurent Oudre</h4>
     <p>Centre Borelli, ENS Paris Saclay</p>
 </div>
 </div>
 
-**Abstract:** Most sensors currently used in healthcare (EEG, 3D motion analysis, accelerometry, ECG...) produce multivariate time series. The different dimensions of these time series are often highly correlated and structured, and prior knowledge of the structure can help to improve the way these signals are handled and processed. In this talk we will discuss some strategies to exploit this additional information for various tasks such as change point detection or filtering, with applications to gait analysis and EEG data. The talk will also provide an introductory overview of the promising framework of Graph Signal Processing (GSP), along with a discussion of the main remaining challenges and open questions in this area.
-
 **Bio:** Laurent Oudre is a full professor at the Centre Borelli of the Ecole Normale Supérieure Paris-Saclay (France). He leads a team of more than ten young researchers and has been working for about fifteen years on signal processing, pattern recognition and machine learning for time series. His work covers a wide range of topics: event detection (including change-point, pattern and anomaly detection), feature extraction, unsupervised or semi-supervised approaches, representation learning and graph signal processing. His scientific projects are mainly focused on AI applications in health and industry, often with a strong interdisciplinary component. He is also involved in initiatives around reproducible research and acculturation to AI (especially for the medical community). He is the author of more than 70 patents and articles in international peer-reviewed journals and conferences. He is also the director of the MVA (Mathematics, Vision and Learning) master's degree at the ENS Paris-Saclay, considered one of the best master's degrees in AI in Europe.
+
+<div class="profile-card">
+<img src="https://github.com/multisa2024/multisa2024.icde/assets/45044727/72ea28ce-4e77-4d55-aca3-75dccba1cf33" alt="John">
+<div class="profile-info">
+    <h4>John Paparrizos</h4>
+    <p>The Ohio State University</p>
+</div>
+</div>
+
+**Bio:** [Cirriculum Vitae](https://www.paparrizos.org/cv/PaparrizosCV.pdf)
+
+<!-- Back to top button -->
+<div class="go-to-top">
+    <a href="#">[ Go to Top ]</a>
+</div>
+
+---
+
+## Keynote Talks
+##### Keynote 1: Multivariate Time-Series in Airbus 
+*Ammar Mechouche, Airbus Helicopters; Adil Soubki, Airbus Commercial*
+
+**Abstract:** This presentation is about Airbus time series coming from testing aircrafts and operating helicopters. First, the collection and management of these data are briefly described. Then, it is shown how these time series data are organized and stored in order for their processing to be performant. After that, some Airbus made tools, dedicated to time series analysis, are presented. Finally, a focus is made on problems / challenges emerging from the analysis of these multivariate data series, encountered in the framework of predictive maintenance and automatic events detection in testing data.
+
+##### Keynote 2: Multivariate time series in healthcare: challenges and open questions 
+*Laurent Oudre, Centre Borelli, ENS Paris Saclay*
+
+**Abstract:** Most sensors currently used in healthcare (EEG, 3D motion analysis, accelerometry, ECG...) produce multivariate time series. The different dimensions of these time series are often highly correlated and structured, and prior knowledge of the structure can help to improve the way these signals are handled and processed. In this talk we will discuss some strategies to exploit this additional information for various tasks such as change point detection or filtering, with applications to gait analysis and EEG data. The talk will also provide an introductory overview of the promising framework of Graph Signal Processing (GSP), along with a discussion of the main remaining challenges and open questions in this area.
 
 <!-- Back to top button -->
 <div class="go-to-top">
