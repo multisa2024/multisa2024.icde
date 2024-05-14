@@ -216,6 +216,8 @@ Previously, Ammar has been awarded a Ph.D. from the University of Rennes 1 in 20
 
 **Abstract:** Most sensors currently used in healthcare (EEG, 3D motion analysis, accelerometry, ECG...) produce multivariate time series. The different dimensions of these time series are often highly correlated and structured, and prior knowledge of the structure can help to improve the way these signals are handled and processed. In this talk we will discuss some strategies to exploit this additional information for various tasks such as change point detection or filtering, with applications to gait analysis and EEG data. The talk will also provide an introductory overview of the promising framework of Graph Signal Processing (GSP), along with a discussion of the main remaining challenges and open questions in this area.
 
+[Link to Slides](https://www.dropbox.com/scl/fi/x8w4l1qbff460tvsew9gk/PlenaryICDE2024.pdf?rlkey=3ymv5x6a4e80bc76djte5t2tt&e=1&dl=0)
+
 <!-- Back to top button -->
 <div class="go-to-top">
     <a href="#">[ Go to Top ]</a>
